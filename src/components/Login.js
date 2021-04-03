@@ -27,7 +27,7 @@ export default class Login extends Component {
           style={styles.input}
           placeholder="Email"
           underlineColorAndroid="transparent"
-          placeholderTextColor="black"
+          placeholderTextColor="blackgit"
           autoCapitalize="none"
           onChangeText={this.handleEmail}
         />
